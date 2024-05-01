@@ -2,10 +2,7 @@
   
 <br/>
 
-- 👨‍💻 Computer Science Student  
-  
-
-- 📍 Living in Lisbon, Portugal  
+- 42 Student in Lisbon
   
 
 <br/>  
