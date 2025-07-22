@@ -48,28 +48,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiago-0liveira&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiago-0liveira&theme=github-dark&hide_border=true" width="48%"/>
 </p>
 
----
-
-### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Tiago-0liveira&style=flat-square&color=blue" alt="profile views" />
 </p>
