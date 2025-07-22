@@ -46,12 +46,5 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiago-0liveira&show_icons=true&theme=github_dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tiago-0liveira&theme=github-dark&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tiago-0liveira&style=flat-square&color=blue" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Tiago-0liveira&style=flat-square&color=blue" alt="profile views" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tiago-0liveira&show_icons=true&theme=github_dark" width="48%"/>
