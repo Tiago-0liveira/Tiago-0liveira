@@ -1,24 +1,75 @@
-# <div align="center">Tiago-0liveira<br/></div>  
-  
-<br/>
+<!-- GitHub Profile README -->
 
-- 42 Student in Lisbon
-  
+<h1 align="center">Hi there 👋, I'm Tiago</h1>
+<h3 align="center">🚀 Developer | 💡 Problem Solver | 🌍 Tech Enthusiast</h3>
 
-<br/>  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+things+with+code!" alt="Typing SVG" />
+</p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tiago-0liveira&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>
+### 🧑‍💻 About Me
+- 🧠 Always exploring **New technologies**
+- 📫 How to reach me: **[tfgoliveira@gmail.com]**
+- 💬 Ask me about **Web Dev, Backend, APIs, or anything tech!**
 
-### Connect with me  
-<div align="left">
-<a href="https://github.com/Tiago-0liveira" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13221814/tiago-oliveira" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-</div>  
+---
+### 🛠️ Tech Stack
 
-<br/>  
+#### 💻 Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+
+#### 🌐 Frameworks & Libraries
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3178C6?style=flat&logo=typescript&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-FFA500?style=flat&logo=websocket&logoColor=white)
+
+#### 🔐 Security & Auth
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![2FA](https://img.shields.io/badge/-2FA-F05032?style=flat&logo=auth0&logoColor=white)
+
+#### 🧰 Tools
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="profile views" />
+</p>
