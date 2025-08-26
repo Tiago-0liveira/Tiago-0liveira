@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Developer | 💡 Problem Solver | 🌍 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+things+with+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
