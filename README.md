@@ -31,6 +31,7 @@
 
 #### 🌐 Frameworks & Libraries
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS]
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -50,4 +51,3 @@
 
 ### 📊 GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=Tiago-0liveira&style=flat-square&color=blue" alt="profile views" />
-<img src="https://github-readme-stats.vercel.app/api?username=Tiago-0liveira&show_icons=true&theme=github_dark" width="48%"/>
