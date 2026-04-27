@@ -36,10 +36,6 @@
 ![Zod](https://img.shields.io/badge/-Zod-3178C6?style=flat&logo=typescript&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-FFA500?style=flat&logo=websocket&logoColor=white)
 
-#### 🔐 Security & Auth
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![2FA](https://img.shields.io/badge/-2FA-F05032?style=flat&logo=auth0&logoColor=white)
-
 #### 🧰 Tools
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
