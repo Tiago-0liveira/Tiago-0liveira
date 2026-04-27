@@ -31,7 +31,6 @@
 
 #### 🌐 Frameworks & Libraries
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![NestJS]
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3178C6?style=flat&logo=typescript&logoColor=white)
